@@ -1,0 +1,22 @@
+hr.border {
+    border: 1px solid gray;
+  }
+
+  .form-control {
+    color : #495057;
+    margin-left: 350px;
+    margin-top: 25px;
+}
+
+.btn-container{
+  margin-top: 20px;
+}
+
+.btn{
+  margin-left: 200px;
+}
+
+#button{
+  margin-left: 355px;
+  margin-top: 15px;
+}
